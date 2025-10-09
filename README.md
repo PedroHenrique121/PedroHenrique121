@@ -6,7 +6,7 @@
 
 ### ⚙️ Minhas Estatísticas no GitHub
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?usernamePedroHenrique121&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique121&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique121&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 
