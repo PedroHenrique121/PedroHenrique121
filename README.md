@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, Me chamo Pedro Henrique! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png" alt="Blaziken" width="90" height="90" style="vertical-align:middle; margin-left:10px;"></h1> 
+<h1 align="center"> Olá, Me chamo Pedro Henrique! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png" alt="Blaziken" width="190" height="190" style="vertical-align:middle; margin-left:10px;"></h1> 
 <p align="center"> Focado no estudo de programação e desenvolvimento web </p>
 <p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
 <br>
@@ -30,7 +30,7 @@
   <br>
   <b>HTML5:</b> 🟧🟧🟧🟧🟧🟧🟧⬛⬛⬛ 70% 
   <br>
-  <b>CSS3:</b> 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ 60% 
+  <b>Java:</b> 🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛ 60% 
   <br>
   <b>MySQL:</b> 🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛ 50% 
   <br>
